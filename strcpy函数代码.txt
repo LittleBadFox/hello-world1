@@ -11,3 +11,6 @@ char* strcpy(char *strDest, const char* strSrc)
     return p;
 
 }
+/**
+本地编辑
+**/
